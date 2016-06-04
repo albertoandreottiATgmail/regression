@@ -4,5 +4,5 @@ Homework for Coursera class on Regression Models.
 + Some work with graphlab and scikit-learn.
 
 Cheatsheet
-# switch to homework virtual environment
++ switch to homework virtual environment,
 workon regression
